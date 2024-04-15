@@ -1,0 +1,30 @@
+KAYNAKÇA:
+https://www.webcebir.com/
+https://medium.com/
+https://www.yazilimkodlama.com/
+https://www.btdersleri.com/
+
+
+HAZIR KODLARIN KAYNAKÇASI :
+https://www.yazilimkodlama.com/web/css-arkaplan-resmini-tam-ekran-yapma/
+https://www.btdersleri.com/ders/Harici-CSS-Dosyas%C4%B1-Kullanma
+
+
+
+HAZIR ALINAN KODLAR:
+
+Harici css kodu:
+
+<link rel=”stylesheet” type=”text/css” href=”dosyaYolu.css” />
+
+
+
+Arka planı tekrarlama yapmadan tam ekran yapma kodu:
+
+{ 
+background: url(bayrak-siiri_1482498107.gif) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+ background-size: cover;
+}
